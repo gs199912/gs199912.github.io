@@ -5,10 +5,10 @@
     
     <entry>
       <title></title>
-      <link href="/2022/01051.html"/>
-      <url>/2022/01051.html</url>
+      <link href="/2022/010513.html"/>
+      <url>/2022/010513.html</url>
       
-        <content type="html"><![CDATA[<h1 id="网站搭建"><a href="#网站搭建" class="headerlink" title="网站搭建"></a>网站搭建</h1><h2 id="需要的编辑软件"><a href="#需要的编辑软件" class="headerlink" title="需要的编辑软件"></a>需要的编辑软件</h2><ul><li>typora</li><li>node.js</li><li>git</li></ul>]]></content>
+        <content type="html"><![CDATA[<hr><h2 id="郭帅"><a href="#郭帅" class="headerlink" title="郭帅"></a>郭帅</h2><pre class="line-numbers language-bash"><code class="language-bash">$ hexo new <span class="token string">"My New Post"</span><span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><pre class="line-numbers language-bash"><code class="language-bash">$ hexo server<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3>]]></content>
       
       
       
